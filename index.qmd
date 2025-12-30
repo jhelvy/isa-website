@@ -1,0 +1,22 @@
+---
+toc: false
+page-layout: full
+---
+
+::: {.callout-important}
+
+## Important Update: Website Transition
+
+We are currently transitioning our website host from **MemberClicks** to **Novi**. The new Novi site will be up and running by **mid-January**.
+
+:::
+
+### Conference Submission Site is LIVE
+
+Fortunately, our conference submission site is hosted separately on **Microsoft CMT**, which is still live and will not change. You can submit any time between now and the new deadline, and the submission site will not change even as our new website goes live.
+
+[**Click here to go to the Microsoft CMT Submission Site**](https://cmt3.research.microsoft.com/)
+
+### Call for Papers
+
+For more details on the conference, please visit the [2026 Conference Information](conference.qmd) page.
