@@ -7,15 +7,15 @@ page-layout: full
 
 ## Important Update: Website Transition
 
-We are currently transitioning our website host from **MemberClicks** to **Novi**. The new Novi site will be up and running by **mid-January**.
+We are currently transitioning our website host from **MemberClicks** to **Novi AMS**. The new Novi AMS site will be up and running by **mid-January**. This is a placeholder site while construction is underway.
 
 :::
 
 ### Conference Submission Site is LIVE
 
-Fortunately, our conference submission site is hosted separately on **Microsoft CMT**, which is still live and will not change. You can submit any time between now and the new deadline, and the submission site will not change even as our new website goes live.
+Our conference submission site is hosted separately on **Microsoft CMT**, which is still live and will not change. You can submit any time between now and the conference submission deadline.
 
-[**Click here to go to the Microsoft CMT Submission Site**](https://cmt3.research.microsoft.com/)
+[**Click here to go to the conference submission site**](https://cmt3.research.microsoft.com/)
 
 ### Call for Papers
 
