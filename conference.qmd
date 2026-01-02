@@ -1,52 +1,51 @@
 
 ![](dc.webp){fig-align="center" width="100%"}
 
-## "Industry, Innovation, and Policy in Uncertain Times"
+# "Industry, Innovation, and Policy in Uncertain Times"
 
-### 2026 ISA Conference - Call for Papers
+**2026 ISA Annual Conference | June 3-5, 2026**
 
-**June 3-5, 2026 | George Washington University, Washington, D.C.**
+**George Washington University, Washington, D.C.**
 
-The Industry Studies Association welcomes research submissions from across disciplines with an industry focus for our 2026 annual conference in central Washington, D.C. Next year's conference celebrates the profound impact that industry studies research continues to have on both academic scholarship and public policy.
+## Conference Overview
 
-### Why D.C.?
+The Industry Studies Association invites researchers to submit abstracts for papers and organized panels to their 2026 Annual Conference. The event takes place June 3-5, 2026 at George Washington University in Washington, D.C.
 
-Washington, D.C., the nation's capital and a global center of policy, governance, and strategic decision-making, offers an unparalleled backdrop for next year's conference. We will be in the heart of D.C.'s thriving ecosystem of think tanks, government agencies, and international organizations.
+## Conference Theme
 
-### Submission Types
+"Industry, Innovation, and Policy in Uncertain Times" describes the contemporary landscape where businesses navigate technological disruption, geopolitical shifts, supply chain vulnerabilities, climate demands, and labor market changes. The theme emphasizes how innovation increasingly occurs within active and consequential policy environments. However, submissions addressing this theme are optional—any rigorous scholarship focusing on organizations and industry dynamics is welcome.
 
-We accept two types of submissions:
+## Venue
 
-- **Single Papers:** Submit an abstract of up to 250 words
-- **Organized Panels:** 3-5 papers with unified themes, preferably including practitioners
+George Washington University sits in the nation's capital, positioned near the White House, Congress, federal agencies, and policy institutions. The location also provides access to Washington's innovation ecosystem, featuring clusters in cybersecurity, defense and aerospace, data and AI ventures, global development, and healthcare policy.
 
-### Key Deadlines
+## Submission Guidelines
 
-- **Portal opens:** December 5, 2025
-- **Submission deadline:** January 16, 2026
-- **Decisions announced:** February 28, 2026
+**Single Papers:** Submit abstracts of up to 250 words through Microsoft's Academic Conference Management Toolkit.
+
+**Organized Panels:** Include a panel description plus individual paper abstracts (250 words each) or panelist listings with roles. Panels should feature unifying themes—such as shared methodologies across industries or diverse approaches to common challenges. Panels incorporating practitioners from industry, government, or organizations receive particular encouragement.
 
 [**Submit Your Paper via Microsoft CMT**](https://cmt3.research.microsoft.com/ISA2026/)
 
-### Research Streams
+## Important Dates
 
-Submitters select from seven categories:
+- **Submission Portal Opens:** December 5, 2025
+- **Submission Deadline:** January 16, 2026
+- **Decisions Announced:** February 28, 2026
+
+## Research Streams
+
+Submitters choose from:
 
 - Sustainable Innovation, Energy, and Mobility
-- Health Systems, Biotechnology, and Pharmaceuticals
-- Innovation, Entrepreneurship, and AI-Driven Transformation
 - Public Policy and Global Competitiveness
+- Health Care Systems, Biotechnology, and Pharmaceuticals
+- Innovation, Entrepreneurship, and AI-Driven Transformation
 - Labor Markets, Organizations, and the Future of Work
 - Operations, Supply Chain, and AI-Enhanced Industry 4.0
 - General Industry Studies
 
-### Conference Highlights
-
-- **High-level plenaries** featuring leading researchers, policymakers, and practitioners
-- **Research paper sessions** across key streams
-- **Networking and professional development** opportunities for PhD students, junior faculty, and senior scholars
-
-### Awards
+## Awards
 
 Several awards will be presented at the conference:
 
@@ -55,7 +54,7 @@ Several awards will be presented at the conference:
 - [**Best Paper in Innovation and Entrepreneurship**](awards-best-paper-innovation.qmd)
 - [**Babbage Industrial Innovation Policy Award**](awards-babbage.qmd)
 
-### Conference Committee
+## Conference Committee
 
 - **John Paul Helveston**, 2026 Conference Chair (George Washington University)
 - **John Gray**, 2025 ISA President (Ohio State University)
@@ -68,7 +67,7 @@ Several awards will be presented at the conference:
 - **Jeff Furman**, 2025 Early Career Development Committee Chair (Boston University)
 - **Zach Wright**, 2027 Conference Chair (Brigham Young University)
 
-### Contact Information
+## Contact Information
 
 - **Conference Chair:** John Paul Helveston, George Washington University, [jph@gwu.edu](mailto:jph@gwu.edu)
 - **General inquiries:** Industry Studies Association headquarters, Philadelphia, PA
