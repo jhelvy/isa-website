@@ -1,0 +1,33 @@
+---
+title: "Awards"
+---
+
+The Industry Studies Association recognizes outstanding industry studies scholars through five award programs. Recipients of these awards are honored during the awards luncheon at the Industry Studies Conference and invited to present their work as part of the conference program. Each award is accompanied by an honorarium which is divided between all authors of the paper.
+
+## [Dissertation Award](awards-dissertation.qmd)
+
+The goal of the award is to recognize and reward outstanding doctoral research in the area of industry studies. Candidates must have completed a doctoral dissertation in economics, management, engineering, political science, sociology, or in a related or interdisciplinary field in the previous year and a half. The award is accompanied by a $500 honorarium for first prize and a $250 honorarium for the runner up.
+
+[Learn more about the Dissertation Award](awards-dissertation.qmd)
+
+## [Babbage Best Paper in Industrial Innovation Policy](awards-babbage.qmd)
+
+This award is supported by generous funding from the [Babbage International Policy Forum](http://www.ciip.group.cam.ac.uk/what-we-do/network/) (UK), under the leadership of Prof Sir Mike Gregory, in order to recognize outstanding contributions to the field of industrial innovation policy and policymaking. Winning papers are expected to demonstrate deep engagement with the theoretical and practical elements of industrial innovation policy. Submitted papers should exhibit a substantial commitment to understanding the interplay between policy interventions and industrial dynamics to shed light on the challenges and opportunities for policymakers, industry stakeholders, and society. We encourage submissions that embrace a cross-disciplinary approach, drawing on diverse methodologies and perspectives across economics, science and technology, and management. Submissions that not only advance theoretical knowledge, but also offer insights and recommendations for policymakers and industry leaders are encouraged. The award includes a $750 honorarium for first prize and a $250 honorarium for the runner up.
+
+[Learn more about the Babbage Award](awards-babbage.qmd)
+
+## [Giarratani Rising Star Award](awards-giarratani.qmd)
+
+Early career scholars are invited to submit one paper to which they have made a significant contribution to be considered for the Giarratani Rising Star Award. This award recognizes the contributions of junior scholars through their industry-based research drawing on the best industry studies traditions of deep knowledge gained through significant personal investment in developing an understanding of the markets, firms and institutions of an industry. The award is accompanied by a $1,000 honorarium for first prize and a $500 honorarium for the runner up.
+
+[Learn more about the Giarratani Rising Star Award](awards-giarratani.qmd)
+
+## [Best Paper in Innovation and Entrepreneurship Award](awards-best-paper-innovation.qmd)
+
+Each year the Industry Studies Association invites submissions for the annual Best Paper in Innovation and Entrepreneurship award. The goal of the award is to recognize and reward outstanding research in the area of innovation and entrepreneurship. Paper submissions to any of the research streams are eligible for this award. A submission does not have to be submitted to the Innovation and Entrepreneurship stream to be eligible for this award. Self-nominations are accepted. As with other work in the industry studies tradition, winning papers are expected to demonstrate significant personal investment in understanding the markets, firms, and institutions of an industry and will frequently involve the integration of direct observation through field based research with appropriate theory and analysis. The Industry Studies Association is dedicated to advancing academic research that is grounded in a deep knowledge of a particular industry or industries. The award includes a $500 honorarium for first prize and a $250 honorarium for the runner up.
+
+[Learn more about the Best Paper in Innovation and Entrepreneurship Award](awards-best-paper-innovation.qmd)
+
+## Ralph Gomory Best Industry Studies Paper Award
+
+The Ralph Gomory Best Industry Studies Paper Award was established by the Industry Studies Association and named for Ralph Gomory, who as President of the Alfred P. Sloan Foundation, initiated and steadfastly supported the Industry Studies Program. With this award, the Association seeks to showcase excellent industry studies research published in the preceding year in a selection of eight top academic journals. Through this award, the ISA hopes to encourage more researchers to submit their industry studies research to a set of leading scholarly journals, while sensitizing editors to the value of research that explores the industry context deeply. As part of its mission, the ISA seeks to promote excellent industry studies research that builds relationships with practitioners to gain access to primary data, brings the contextual knowledge gathered in the field to bear on the formation of research questions, and research design, and uses that knowledge to guide data analysis, interpretations, and conclusions. The award is accompanied by a $1,000 honorarium for first prize and a $500 honorarium for the runner up.

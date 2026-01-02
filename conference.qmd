@@ -47,7 +47,7 @@ Submitters choose from:
 
 ## Awards
 
-Several awards will be presented at the conference:
+Several awards will be presented at the conference. For complete details and submission information, visit our [Awards page](awards.qmd).
 
 - [**Dissertation Award**](awards-dissertation.qmd) - For Ph.D. defended between August 1, 2024 and December 31, 2025
 - [**Giarratani Rising Star Award**](awards-giarratani.qmd) - For junior faculty and postdocs
