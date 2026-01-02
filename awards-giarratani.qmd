@@ -1,0 +1,45 @@
+---
+title: "Giarratani Rising Star Award"
+---
+
+## Giarratani Rising Star Award
+
+The Industry Studies Association offers annual recognition for emerging researchers through the Giarratani Rising Star Award.
+
+### Award Details
+
+- **First Prize:** $1,000 honorarium
+- **Runner-up Prize:** $500 honorarium
+- Non-winning papers may still qualify for the regular conference program
+
+### Eligibility Requirements
+
+Applicants must meet the following criteria:
+
+- Junior scholars no more than six years post-Ph.D.
+- At least one co-author who is an early career scholar
+- Papers cannot have been previously accepted for publication
+- Individual scholars may submit only one paper to the competition
+
+### Evaluation Criteria
+
+The award committee assesses two main areas:
+
+1. Evidence of significant personal investment in developing an understanding of the markets, firms and institutions within relevant industries
+2. Demonstration of combining direct interaction and observation with appropriate theory and analysis
+
+### Submission Process
+
+Candidates must complete three mandatory steps:
+
+1. Submit via [Microsoft's Academic Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/ISA2026/)
+2. Upload an extended abstract and designate "Giarratani Rising Star Award" in the submission form
+3. Register for the conference and confirm attendance by early March
+
+**Submission Deadline:** January 16, 2026
+
+### Important Note
+
+Non-completion of any requirement results in automatic disqualification.
+
+[Return to Conference Page](conference.qmd)

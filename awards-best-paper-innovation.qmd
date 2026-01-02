@@ -1,0 +1,40 @@
+---
+title: "Best Paper in Innovation and Entrepreneurship Award"
+---
+
+## Best Paper in Innovation and Entrepreneurship Award
+
+The Industry Studies Association offers an annual award recognizing outstanding papers in innovation and entrepreneurship.
+
+### Award Details
+
+- **First Prize:** $500 honorarium
+- **Runner-up Prize:** $250 honorarium
+
+### Eligibility
+
+- Papers from any research stream are eligible
+- Self-nominations are welcome
+- Winners are expected to demonstrate substantial research investment, often combining field-based observation with theoretical analysis
+
+### Submission Requirements
+
+Candidates must complete three steps:
+
+1. **Submit proposal** through [Microsoft's Academic Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/ISA2026/)
+2. **Select the award category** by choosing "Best Paper in Innovation and Entrepreneurship Award" in the CMT form after uploading an extended abstract
+3. **Register and commit** to attend the conference by early March
+
+### Key Deadline
+
+**Submission Deadline:** January 16, 2026
+
+### Additional Consideration
+
+Non-winning papers will still be considered for inclusion in the regular Industry Studies Association Annual Conference program.
+
+### Important Note
+
+Failure to fulfill any of these steps will lead to disqualification.
+
+[Return to Conference Page](conference.qmd)

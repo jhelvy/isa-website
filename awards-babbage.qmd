@@ -1,0 +1,42 @@
+---
+title: "Babbage Industrial Innovation Policy Award"
+---
+
+## Babbage Best Paper in Industrial Innovation Policy Award
+
+The Industry Studies Association administers this annual award with backing from the Babbage International Policy Forum (UK). It recognizes exceptional papers addressing industrial innovation policy and policymaking.
+
+### Award Details
+
+- **First Prize:** $750 honorarium
+- **Runner-up Prize:** $250 honorarium
+- Winning papers demonstrate engagement with theoretical and practical policy elements
+- Papers should examine connections between policy interventions and industrial dynamics
+
+### Eligibility & Scope
+
+All research stream submissions qualify. The award welcomes:
+
+- Cross-disciplinary approaches spanning economics, technology, and management
+- Work offering both theoretical advancement and practical insights for policymakers
+- Self-nominations are accepted
+
+### Submission Requirements
+
+Candidates must complete three steps:
+
+1. **Submit proposal** via [Microsoft's Academic Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/ISA2026/)
+2. **Mark for award consideration** by selecting "Babbage International Policy Forum Industrial Innovation Policy Award" in the CMT form after uploading an extended abstract
+3. **Register and commit** to attend the conference by early March
+
+Omitting any step results in disqualification.
+
+### Critical Deadline
+
+**Submission Deadline:** January 16, 2026
+
+### Additional Consideration
+
+Non-winning papers may still be considered for the regular conference program.
+
+[Return to Conference Page](conference.qmd)
