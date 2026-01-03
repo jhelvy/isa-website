@@ -19,31 +19,17 @@ The Industry Studies Association invites researchers to submit abstracts for pap
 
 George Washington University sits in the nation's capital, positioned near the White House, Congress, federal agencies, and policy institutions. The location also provides access to Washington's innovation ecosystem, featuring clusters in cybersecurity, defense and aerospace, data and AI ventures, global development, and healthcare policy.
 
-## Submission Guidelines
+## Call for Papers
 
-**Single Papers:** Submit abstracts of up to 250 words through Microsoft's Academic Conference Management Toolkit.
+The conference welcomes submissions for single papers and organized panels. The submission deadline is **January 16, 2026**. See the guidelines page for details:
 
-**Organized Panels:** Include a panel description plus individual paper abstracts (250 words each) or panelist listings with roles. Panels should feature unifying themes—such as shared methodologies across industries or diverse approaches to common challenges. Panels incorporating practitioners from industry, government, or organizations receive particular encouragement.
-
-[**Submit Your Paper via Microsoft CMT**](https://cmt3.research.microsoft.com/ISA2026/)
+[**View Submission Guidelines**](submissions.qmd)
 
 ## Important Dates
 
 - **Submission Portal Opens:** December 5, 2025
 - **Submission Deadline:** January 16, 2026
 - **Decisions Announced:** February 28, 2026
-
-## Research Streams
-
-Submitters choose from:
-
-- Sustainable Innovation, Energy, and Mobility
-- Public Policy and Global Competitiveness
-- Health Care Systems, Biotechnology, and Pharmaceuticals
-- Innovation, Entrepreneurship, and AI-Driven Transformation
-- Labor Markets, Organizations, and the Future of Work
-- Operations, Supply Chain, and AI-Enhanced Industry 4.0
-- General Industry Studies
 
 ## Awards
 

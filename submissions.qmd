@@ -1,0 +1,37 @@
+# Conference Submissions
+
+The Industry Studies Association invites researchers to submit abstracts for papers and organized panels to the 2026 Annual Conference, taking place June 3-5, 2026 at George Washington University in Washington, D.C.
+
+## Submission Guidelines
+
+**Single Papers:** Submit abstracts of up to 250 words through Microsoft's Academic Conference Management Toolkit.
+
+**Organized Panels:** Include a panel description plus individual paper abstracts (250 words each) or panelist listings with roles. Panels should feature unifying themes—such as shared methodologies across industries or diverse approaches to common challenges. Panels incorporating practitioners from industry, government, or organizations receive particular encouragement.
+
+## How to Submit via Microsoft CMT
+
+All submissions are handled through Microsoft CMT (Conference Management Toolkit), which is a separate website from the ISA site. You can create a CMT account using any email address—it will only be used for managing your conference submission and is not linked to your ISA website account. If you don't already have a CMT account, you'll be prompted to create one when you first visit the submission portal.
+
+[**Submit Your Paper via Microsoft CMT**](https://cmt3.research.microsoft.com/ISA2026/)
+
+## Important Dates
+
+- **Submission Portal Opens:** December 5, 2025
+- **Submission Deadline:** January 16, 2026
+- **Decisions Announced:** February 28, 2026
+
+## Research Streams
+
+Submitters choose from:
+
+- Sustainable Innovation, Energy, and Mobility
+- Public Policy and Global Competitiveness
+- Health Care Systems, Biotechnology, and Pharmaceuticals
+- Innovation, Entrepreneurship, and AI-Driven Transformation
+- Labor Markets, Organizations, and the Future of Work
+- Operations, Supply Chain, and AI-Enhanced Industry 4.0
+- General Industry Studies
+
+## Questions?
+
+For submission-related questions, please contact the Conference Chair: John Paul Helveston, George Washington University, [jph@gwu.edu](mailto:jph@gwu.edu)

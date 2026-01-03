@@ -15,8 +15,12 @@ website:
         text: About
       - href: mission.qmd
         text: Mission Statement
-      - href: conference.qmd
-        text: 2026 Conference
+      - section: "Conference"
+        contents:
+          - href: conference.qmd
+            text: Call for Papers
+          - href: submissions.qmd
+            text: Submission Guidelines
       - href: awards.qmd
         text: Awards
 

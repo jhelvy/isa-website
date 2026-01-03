@@ -13,9 +13,9 @@ We are currently transitioning our website host from **MemberClicks** to **Novi 
 
 ### Conference Submission Site is LIVE
 
-Our conference submission site is hosted separately on **Microsoft CMT**, which is still live and will not change. You can submit any time between now and the conference submission deadline.
+Our conference submission site is hosted separately on **Microsoft CMT**, which is still live and will not change. You can submit any time between now and the conference submission deadline - see the guidelines page for details:
 
-[**Click here to go to the conference submission site**](https://cmt3.research.microsoft.com/)
+[**View Submission Guidelines**](submissions.qmd) 
 
 ### Call for Papers
 
