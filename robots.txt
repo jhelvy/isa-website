@@ -1,1 +1,1 @@
-Sitemap: https://industrystudies.org/sitemap.xml
+Sitemap: https://jhelvy.github.io/isa-website/sitemap.xml
